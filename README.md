@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install jason_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+JasonViewTool::Renderer.copyright 'Jason Woo', "All rights reserved"
+```
 
 ## Development
 
